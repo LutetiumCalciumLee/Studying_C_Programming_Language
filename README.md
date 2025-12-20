@@ -10,7 +10,7 @@ The document provides a thorough introduction to the C programming language, cov
 ## Key Topics Covered
 
 - **History and Purpose:**  
-  C was originally developed by Dennis Ritchie at Bell Labs in the early 1970s for programming the UNIX operating system and is now widely used for system and application software development.[1][3][6]
+  C was originally developed by Dennis Ritchie at Bell Labs in the early 1970s for programming the UNIX operating system and is now widely used for system and application software development.
 - **Structure of a C Program:**  
   A C program typically includes preprocessor directives, a main function, variable declarations, executable statements, and (optionally) user-defined functions. Each statement ends with a semicolon.
 - **Compilation and Execution:**  
@@ -54,7 +54,7 @@ The document provides a thorough introduction to the C programming language, cov
 ## 주요 주제
 
 - **역사와 목적:**  
-  C 언어는 1970년대 초 Bell Labs의 Dennis Ritchie가 UNIX 운영체제 개발을 위해 처음 설계한 언어임. 현재는 시스템 및 응용 소프트웨어 개발에 널리 사용됨.[3][6][1]
+  C 언어는 1970년대 초 Bell Labs의 Dennis Ritchie가 UNIX 운영체제 개발을 위해 처음 설계한 언어임. 현재는 시스템 및 응용 소프트웨어 개발에 널리 사용됨.
 - **C 프로그램의 구조:**  
   C 프로그램은 전처리 지시문, main 함수, 변수 선언, 실행문, (선택적으로) 사용자 정의 함수로 구성됨. 각 문장은 세미콜론으로 끝남.
 - **컴파일과 실행:**  
