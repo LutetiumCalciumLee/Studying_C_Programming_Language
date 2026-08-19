@@ -1,29 +1,35 @@
 <details>
 <summary>ENG (English Version)</summary>
 
-# C Language Learning Summary
+# C Programming Language
+This repository contains my notes and code from studying C programming language during the High-Tech Program in the Department of AI Software.
 
-## Core Fundamentals
-- **C Language Basics**: Compilation process, Visual Studio setup, program structure
-- **I/O Operations**: `printf/scanf` formatted input/output, format specifiers (`%d`, `%f`, `%s`, `%c`)
-- **Operators**: Arithmetic (`+`, `-`, `*`, `/`, `%`), relational, logical (`&&`, `||`, `!`), assignment, increment/decrement (`++`, `--`)
+## [Chapter 1 . Understanding the C Language and Installing a Compiler](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.01)
 
-## Control Structures
-- **Conditional Statements**: `if/else`, nested `if`, `switch-case` with `break`
-- **Loops**: `for` (initialization; condition; increment), `while`, `do-while`
-- **Loop Control**: `break` (exit loop), `continue` (skip iteration), `goto`, `return`
+## [Chapter 2. Writing a Simple C Program](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.02)
 
-## Data Structures & Memory
-- **Arrays**: 1D/2D arrays, initialization `{1,2,3}`, `sizeof` for size calculation
-- **Pointers**: Declaration (`int *p`), address (`&var`), dereference (`*p`), pointer arithmetic
-- **Dynamic Memory**: `malloc()`, `calloc()`, `realloc()`, `free()` for runtime allocation
-- **Strings**: Character arrays ending with `'\0'`, `strlen()`, `strcpy()`, `strcat()`
+## [Chapter 3. printf Function and Formatted Input/Output in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.03)
 
-## Advanced Topics
-- **Functions**: Declaration, parameters (call-by-value/reference), local/global variables, recursion
-- **File I/O**: `fopen()`, `fclose()`, `fscanf()`, `fprintf()`, `fread()`, `fwrite()`
-- **Data Structures**: Stack implementation (push/pop) using arrays and pointers
-- **Pointer Arrays**: `char* arr[10]` for dynamic string handling
+## [Chapter 4. Understanding C Operators](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.04)
+
+## [Chapter 5. Conditional Statement](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.05)
+
+## [Chapter 6. Basics of Loops and the for Loop in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.06)
+
+## [Chapter 7. Loop Control in C (while, do-while, break, continue, goto, return)](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.07)
+
+## [Chapter 8. Understanding Arrays in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.08)
+
+## [Chapter 9. Arrays and Pointers](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.09)
+
+## [Chapter 10. Functions in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.10)
+
+## [Chapter 11. Input and Output in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.11)
+
+## [Chapter 12. Advanced Pointers, Dynamic Memory Allocation, and Pointer Arrays in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.12)
+
+## [Chapter 13. LECTURE NOTE on PROGRAMMING in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.13)
+
 
 </details>
 
