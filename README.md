@@ -28,8 +28,6 @@ This repository contains my notes and code from studying C programming language 
 
 ## [Chapter 12. Advanced Pointers, Dynamic Memory Allocation, and Pointer Arrays in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.12)
 
-## [Chapter 13. LECTURE NOTE on PROGRAMMING in C](https://github.com/LutetiumCalciumLee/Studying_C_Programming_Language/tree/Ch.13)
-
 
 </details>
 
