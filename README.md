@@ -58,7 +58,7 @@ Developed by computer programmers, C is used for everything from simple calculat
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-# Chapter 1 . C 언어 이해 및 컴파일러 설치
+# 1장. C 언어 이해 및 컴파일러 설치
 
 ## C 언어의 정의  
 
