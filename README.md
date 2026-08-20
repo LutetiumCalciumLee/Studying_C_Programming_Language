@@ -17,7 +17,7 @@
 <details>
 <summary>KOR (한국어 버전)</summary>
 
-# 3장. printf 함수와 C 언어의 형식화된 입출력
+# 3장. printf 함수와 C 언어의 형식화 된 입출력
 
 ## 개요
 - **printf**는 화면에 형식화된 텍스트를 출력하는 C 표준 라이브러리 함수입니다.
