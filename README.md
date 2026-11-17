@@ -43,7 +43,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 8장. C 배열 이해하기
