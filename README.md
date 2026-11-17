@@ -14,7 +14,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 3장. printf 함수와 C 언어의 형식화 된 입출력
