@@ -63,7 +63,7 @@ C treats files as streams of bytes, and all file operations are performed using 
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 11장. C의 입출력
