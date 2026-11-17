@@ -41,7 +41,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 7장. C의 반복 제어 (while, do-while, break, continue, goto, return)
