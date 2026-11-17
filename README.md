@@ -42,7 +42,7 @@ The document provides a thorough introduction to the C programming language, cov
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 13장. C 프로그래밍 강의 노트
