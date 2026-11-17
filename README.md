@@ -23,7 +23,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 4장. C 연산자 이해하기
