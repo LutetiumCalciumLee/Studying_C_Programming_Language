@@ -37,7 +37,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 12장. 고급 포인터, 동적 메모리 할당, 포인터 배열
