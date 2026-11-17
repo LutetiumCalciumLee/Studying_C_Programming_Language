@@ -38,7 +38,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # 9장. 배열과 포인터
